@@ -27,3 +27,6 @@ for base in bases:
 
     for currency, rate in rates.items():
         print(date, base, currency, rate)
+
+x = 4
+print(x)
