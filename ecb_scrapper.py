@@ -29,4 +29,6 @@ for base in bases:
         print(date, base, currency, rate)
 
 x = 4
+y = 5
 print(x)
+print(x+y)
